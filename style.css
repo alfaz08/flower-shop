@@ -161,14 +161,13 @@ border: #723c48;
 
 
 .latest-deal{
-  height: 40vh;
-  background-image: url("./flower/Rectangle.png");
   
-  background-repeat: no-repeat;
-  background-position: center;
+  background: url("./flower/Rectangle.png") ;
+  width: 1300px;
+  height: 300px;
+  text-align: center;
   width: 65%;
   margin: auto;
- 
 }
 .latest-deal{
   text-align: center;
@@ -180,7 +179,7 @@ border: #723c48;
    line-height: 60px;
 }
 .search-bar-real{
-  width: 700px;
+  width: 500px;
   height: 25px;
     padding: 10px;
    border-radius: 3px;
