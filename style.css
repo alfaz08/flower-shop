@@ -158,3 +158,31 @@ text-align: center;
 height: 200px;
 border: #723c48;
 }
+
+
+.latest-deal{
+  height: 40vh;
+  background-image: url("./flower/Rectangle.png");
+  
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 65%;
+  margin: auto;
+ 
+}
+.latest-deal{
+  text-align: center;
+ margin-top: 50px;
+}
+.deal-para{
+   padding-top: 60px;
+   text-align: center;
+   line-height: 60px;
+}
+.search-bar-real{
+  width: 700px;
+  height: 25px;
+    padding: 10px;
+   border-radius: 3px;
+   border: none;
+  }
