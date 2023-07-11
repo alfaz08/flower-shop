@@ -37,6 +37,7 @@ h1{
   margin-top: 20px;
   border-radius: 8px;
 background: #E55473;
+cursor: pointer;
  
 }
 .banner-img{
@@ -62,6 +63,9 @@ background: #E55473;
 .color{
   color:#E55473;
 }
+.text-color{
+  color:white
+}
 .deal-des{
   
   text-align: center;
@@ -81,6 +85,7 @@ background: #E55473;
   width: 300px;
   background-color: rgb(19, 19, 36);
 }
+
 
 
 .featured-title{
@@ -163,11 +168,13 @@ border: #723c48;
 .latest-deal{
   
   background: url("./flower/Rectangle.png") ;
+  background-repeat: no-repeat;
   width: 1300px;
   height: 300px;
   text-align: center;
   width: 65%;
   margin: auto;
+  display: block;
 }
 .latest-deal{
   text-align: center;
@@ -178,13 +185,16 @@ border: #723c48;
    text-align: center;
    line-height: 60px;
 }
+h2,p{
+  line-height: 35px;
+}
 .search-bar-real{
   width: 500px;
   height: 25px;
     padding: 10px;
    border-radius: 3px;
    border: none;
-   
+   margin-right: 10px;
   }
 
 .footer-end{
@@ -193,4 +203,7 @@ border: #723c48;
   text-align: center;
   padding: 100px;
   margin-top: 50px;
+}
+.footer-color{
+  color: gray;
 }
