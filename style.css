@@ -184,4 +184,13 @@ border: #723c48;
     padding: 10px;
    border-radius: 3px;
    border: none;
+   
   }
+
+.footer-end{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 100px;
+  margin-top: 50px;
+}
